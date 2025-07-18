@@ -1,0 +1,5 @@
+name = "noname"
+compatibility_date = "2025-07-18"
+
+[assets]
+directory = "./" # Use "./public" if you move the site files into a 'public' folder
